@@ -1,4 +1,5 @@
-
+document.addEventListener('DOMContentLoaded', () => {
+	window.addEventListener('load', () => {
 
 let input = document.querySelector(".input");
 let botonAgregar = document.querySelector(".boton-agregar");
@@ -84,4 +85,7 @@ botonAgregar.addEventListener("click", function(){
     chequearInput()
     
 
+})
+
+})
 })

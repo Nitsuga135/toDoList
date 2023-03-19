@@ -1,0 +1,6 @@
+Final Plataforma 5,
+Este ejercicio fue hecho siguiendo los pasos para el final del curso.
+La misma tiene la funcionalidad de agendar tareas que una persona anote
+pero al esta no tener un archivo json o una base de datos las anotaciones
+se borraran al cerrar la apk y al esta ser un proyecto en el cual tenia 
+que seguir las instrucciones del examen no fue realizado en movile first.
